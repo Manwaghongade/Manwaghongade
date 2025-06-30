@@ -21,8 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manwaghongade&layout=compact&theme=radical)
