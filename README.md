@@ -23,10 +23,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manwaghongade&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Manwaghongade&show_icons=true&theme=radical" />
-</p>
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manwaghongade&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manwaghongade&show_icons=true&theme=radical)
+
 
 ---
 
