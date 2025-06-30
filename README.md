@@ -7,7 +7,7 @@
 ---
 
 
-📁 **My all projects available at:** (portfolio-apmixp9ac-manwaghongades-projects.vercel.app)
+📁 **My all projects available at:** (https://portfolio-apmixp9ac-manwaghongades-projects.vercel.app)
 
 📫 **How to reach me:** manwaghongade@gmail.com
 
@@ -24,8 +24,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manwaghongade&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manwaghongade&show_icons=true&theme=radical" />
 </p>
 
 ---
