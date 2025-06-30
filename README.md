@@ -16,7 +16,7 @@
 ## 🔧 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,mysql,mongodb,powerbi,tableau,vscode,eclipse,netbeans" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,mongodb,powerbi,tableau,vscode,eclipse,netbeans" />
 </p>
 
 ---
@@ -32,8 +32,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](http://www.linkedin.com/in/manwa-ghongade-38886127a)  
-[![GitHub](https://github.com/Manwaghongade)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/manwa-ghongade-38886127a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Manwaghongade)
+
+
 
 
 ---
