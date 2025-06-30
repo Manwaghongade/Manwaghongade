@@ -7,7 +7,7 @@
 ---
 
 
-📁 **My all projects available at:** (portfolio-dwqm-rjp8j2cgw-manwaghongades-projects.vercel.app)
+📁 **My all projects available at:** (https://portfolio-dwqm-rjp8j2cgw-manwaghongades-projects.vercel.app)
 
 📫 **How to reach me:** manwaghongade@gmail.com
 
